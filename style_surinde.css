@@ -1,0 +1,262 @@
+body{
+    font-family: 'Rubik', sans-serif;
+    background-color: #EDEEDE;
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    color: #676666;
+    
+}
+
+header{
+    background-image: url('images/background.png');
+    background-repeat: no-repeat;
+    height: 350px;
+    margin-top: 0px;
+    margin-left: 0px;
+    background-size: 1440px 300px;
+
+}
+
+
+.logo{
+    height: 175px;
+    width: 175px;
+    float: left;
+    top: 300px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 130px;
+    
+}
+
+.nav{
+	float: right;
+	width: 500px;
+	margin-top: 90px;
+    margin-right: 100px;
+    font-size: 25px;
+    
+}
+
+.nav a {
+	color: #EDEEDE;
+	display: block;
+	float:left;
+    margin-left: 20px;
+    text-decoration: none;
+    padding-left: 30px;
+    
+    }
+
+
+/*home*/
+h1{
+    float: left;
+    margin-left: 150px;
+    margin-bottom: 10px;
+    margin-top: 90px;
+}
+
+.wat{
+    float: left;
+    margin-left: 150px;
+    margin-top: 0px;
+    margin-right: 850px;
+    margin-bottom: 200px; 
+}
+
+.fase1{
+    margin-left: 475px;
+    height: 125px;
+    width: 125px;
+    margin-top: 110px;
+    position: absolute;
+}
+.fase2{
+    height: 125px;
+    width: 125px;
+    margin-left: 650px;
+    margin-top: 110px;
+    position: absolute;
+}
+.fase3{
+    height: 125px;
+    width: 125px;
+    margin-left: 825px;
+    margin-top: 110px;
+    position: absolute;
+}
+
+
+/*info*/
+.info{
+    padding: 5px;
+    width: 400px;
+    text-align: left;
+}
+
+.info__vers{
+    background-image: url('images/vak.png');
+    background-repeat: no-repeat;
+    position: absolute;
+    height: 900px;
+    margin-top: 450px;
+    margin-left: 145px;
+    background-size: 300px 350px;
+}
+
+.plant{
+    position: absolute;
+    margin-top: 70px;
+    margin-left: 115px;
+    margin-right: 115px;
+    height: 75px;
+    width: 75px;
+}
+
+h2{
+    float: left;
+    margin-left: 30px;
+    margin-top: 190px;
+    margin-bottom: 10px;
+}
+
+p.vers{
+    float: left;
+    margin-left: 30px;
+    margin-top: 0px;
+    margin-right: 1025px;
+}
+
+.info__lokaal{
+    background-image: url('images/vak.png');
+    background-repeat: no-repeat;
+    position: absolute;
+    height: 900px;
+    margin-top: 450px;
+    margin-left: 570px;
+    background-size: 300px 350px;
+}
+
+p.lokaal{
+    float: left;
+    margin-left: 30px;
+    margin-top: 0px;
+    margin-right: 600px;
+}
+
+.pointer{
+    position: absolute;
+    margin-top: 80px;
+    margin-left: 130px;
+    margin-right: 115px;
+}
+
+.info__smart{
+    background-image: url('images/vak.png');
+    background-repeat: no-repeat;
+    position: absolute;
+    height: 900px;
+    margin-top: 450px;
+    margin-left: 945px;
+    background-size: 300px 350px;
+}
+
+p.smart{
+    float: left;
+    margin-left: 30px;
+    margin-top: 0px;
+    margin-right: 210px;
+}
+
+.ding{
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 100px;
+}
+
+/*bestellen*/
+.diy{
+    float: right;
+    margin-right: 440px;
+    margin-bottom: 10px;
+    margin-top: 650px;
+}
+
+.txt{
+    float: left;
+    margin-left: 780px;
+    margin-top: 0px;
+    margin-right: 210px;
+
+}
+
+.button{
+    float: left;
+    margin-left: 780px;
+    margin-top: 30px;
+    margin-right: 210px;
+    background-color: #9FB26D;
+    text-decoration: none;
+    padding: 15px;
+    border-radius: 10px;
+    color:#EDEEDE;
+}
+
+.kit{
+    position: absolute;
+    margin-top: 1050px;
+    margin-left: -60px;
+    margin-right: 1200px;
+    
+    width: 150px;
+    height: 300px;
+    
+}
+
+/*prototypes*/
+.app{
+    
+
+}
+
+.app--kit{
+    position: absolute;
+    margin-top: 1600px;
+    margin-left: 100px;
+    
+    
+
+}
+
+.app--klant{
+    position: absolute;
+    margin-top: 1600px;
+    margin-left: 600px;
+    
+   
+
+}
+
+.app--teler{
+    position: absolute;
+    margin-top: 1600px;
+    margin-left: 600px;
+    
+   
+
+}
+
+
+
+
+.google{
+    height: 125px;
+    width: 125px;
+}
+.apple{
+    height: 125px;
+    width: 125px;
+}
